@@ -8,9 +8,9 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 - Struktur kode modular (algoritma, controller, view)
 
 ## Demo
-![Demo Aplikasi](assets/videos/demo_small.gif)
+![Demo Aplikasi](assets/videos/demo_fast.gif)
 
-*Video demonstrasi penggunaan aplikasi GrafikaKu (559KB GIF, dioptimasi untuk loading cepat)*
+*Video demonstrasi penggunaan aplikasi GrafikaKu*
 
 > **Catatan:** Jika GIF tidak muncul, Anda dapat mengunduh file video dari [assets/videos/screenrecord_apps.mp4](assets/videos/screenrecord_apps.mp4)
 
