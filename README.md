@@ -1,4 +1,4 @@
-# grafika_komputer_app
+# GrafikaKu
 
 Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 
@@ -6,6 +6,11 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 - Menggambar garis dan lingkaran menggunakan algoritma grafika komputer
 - Navigasi antar halaman dengan GetX
 - Struktur kode modular (algoritma, controller, view)
+
+## Demo
+![Demo Aplikasi](assets/videos/screenrecord_apps.mp4)
+
+*Video demonstrasi penggunaan aplikasi GrafikaKu*
 
 ## Instalasi
 1. Pastikan sudah menginstall Flutter SDK versi terbaru
@@ -31,6 +36,6 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 3. Ikuti instruksi pada layar untuk menggambar atau bereksperimen dengan algoritma grafika komputer.
 4. Navigasi antar halaman menggunakan menu yang tersedia.
 5. Untuk hasil terbaik, gunakan perangkat dengan layar sentuh atau mouse.
-
+.....................,,,,,,,,,,,,,,,,,,,,
 > **Catatan:**
 > Pada aplikasi ini, "menggambar" berarti memilih titik-titik pada kanvas yang kemudian divisualisasikan menjadi garis atau lingkaran menggunakan algoritma grafika komputer (misal: Bresenham). Hasil gambar berupa susunan titik/piksel, bukan gambar bebas seperti aplikasi paint.
