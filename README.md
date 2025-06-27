@@ -10,7 +10,7 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 ## Demo
 ![Demo Aplikasi](assets/videos/screenrecord_apps.mp4)
 
-*Video demonstrasi penggunaan aplikasi GrafikaKu*
+*Video demonstrasi penggunaan aplikasi GrafikaKu (337KB, dioptimasi untuk loading cepat)*
 
 ## Instalasi
 1. Pastikan sudah menginstall Flutter SDK versi terbaru
