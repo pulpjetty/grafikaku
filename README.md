@@ -24,10 +24,6 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
   ```bash
   flutter run
   ```
-- **Web**:
-  ```bash
-  flutter run -d chrome
-  ```
 
 ## Cara Pakai
 1. Buka aplikasi GrafikaKu di perangkat Anda.
@@ -38,7 +34,3 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 
 > **Catatan:**
 > Pada aplikasi ini, "menggambar" berarti memilih titik-titik pada kanvas yang kemudian divisualisasikan menjadi garis atau lingkaran menggunakan algoritma grafika komputer (misal: Bresenham). Hasil gambar berupa susunan titik/piksel, bukan gambar bebas seperti aplikasi paint.
-
-## Build Release
-- **Android APK:**
-  ```
