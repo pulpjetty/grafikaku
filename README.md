@@ -8,9 +8,11 @@ Aplikasi Flutter untuk demonstrasi dan eksperimen grafika komputer.
 - Struktur kode modular (algoritma, controller, view)
 
 ## Demo
-![Demo Aplikasi](assets/videos/screenrecord_apps.mp4)
+https://github.com/pulpjetty/grafikaku/assets/videos/screenrecord_apps.mp4
 
 *Video demonstrasi penggunaan aplikasi GrafikaKu (337KB, dioptimasi untuk loading cepat)*
+
+> **Catatan:** Jika video tidak muncul, Anda dapat mengunduh file video dari [assets/videos/screenrecord_apps.mp4](assets/videos/screenrecord_apps.mp4)
 
 ## Instalasi
 1. Pastikan sudah menginstall Flutter SDK versi terbaru
