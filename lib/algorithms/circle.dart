@@ -4,8 +4,6 @@ List<Offset> midpointCircle(Offset center, Offset pointOnCircle) {
   final points = <Offset>[];
   int xc = center.dx.round();
   int yc = center.dy.round();
-  int x1 = pointOnCircle.dx.round();
-  int y1 = pointOnCircle.dy.round();
   int r = ((center - pointOnCircle).distance).round();
 
   int x = 0;
